@@ -1,57 +1,62 @@
 [
-    {
-      "Biodata_Id": 1,
-      "Biodata_Type": "Male",
-      "Profile_Image": "https://i.ibb.co/GJcS1fL/download.jpg",
-      "Permanent_Division_Name": "Dhaka",
-      "Age": 23,
-      "Occupation": "Web Devoloper",
-      "View_Profile": "view_profile_1.html"
-    },
-    {
-      "Biodata_Id": 2,
-      "Biodata_Type": "Female",
-      "Profile_Image": "https://i.ibb.co/vxZfjn2/download-3.jpg",
-      "Permanent_Division_Name": "Chattagram",
-      "Age": 45,
-      "Occupation": "Scientest",
-      "View Profile": "view_profile_2.html"
-    },
-    {
-      "Biodata_Id": 3,
-      "Biodata_Type": "Male",
-      "Profile_Image": "https://i.ibb.co/rmvRzFz/download-1.jpg",
-      "Permanent_Division_Name": "Rangpur",
-      "Age": 30,
-      "Occupation": "Banker",
-      "View Profile": "view_profile_3.html"
-    },
-    {
-      "Biodata_Id": 4,
-      "Biodata_Type": "Male",
-      "Profile_Image": "https://i.ibb.co/vX4zy1j/download-2.jpg",
-      "Permanent_Division_Name": "Chattagram",
-      "Age": 30,
-      "Occupation": "Businessman",
-      "View Profile": "view_profile_3.html"
-    },
-    {
-      "Biodata_Id": 5,
-      "Biodata_Type": "Female",
-      "Profile_Image": "https://i.ibb.co/17Fh5Nn/download-4.jpg",
-      "Permanent_Division_Name": "Rangpur",
-      "Age": 30,
-      "Occupation": "Doctor",
-      "View Profile": "view_profile_3.html"
-    },
-    {
-      "Biodata_Id": 6,
-      "Biodata_Type": "Female",
-      "Profile_Image": "https://i.ibb.co/mtxRN52/download-5.jpg",
-      "Permanent_Division_Name": "Dhaka",
-      "Age": 27,
-      "Occupation": "Softwere Developer",
-      "View Profile": "view_profile_3.html"
-    }
-  ]
-  
+  {
+ 
+    "Biodata_Id": 1,
+    "Biodata_Type": "Male",
+    "Profile_Image": "https://i.ibb.co/GJcS1fL/download.jpg",
+    "Permanent_Division_Name": "Dhaka",
+    "Age": 23,
+    "Occupation": "Web Devoloper",
+    "View_Profile": "view_profile_1.html"
+  },
+  {
+
+    "Biodata_Id": 2,
+    "Biodata_Type": "Female",
+    "Profile_Image": "https://i.ibb.co/vxZfjn2/download-3.jpg",
+    "Permanent_Division_Name": "Chattagram",
+    "Age": 45,
+    "Occupation": "Scientest",
+    "View Profile": "view_profile_2.html"
+  },
+  {
+
+    "Biodata_Id": 3,
+    "Biodata_Type": "Male",
+    "Profile_Image": "https://i.ibb.co/rmvRzFz/download-1.jpg",
+    "Permanent_Division_Name": "Rangpur",
+    "Age": 30,
+    "Occupation": "Banker",
+    "View Profile": "view_profile_3.html"
+  },
+  {
+ 
+    "Biodata_Id": 4,
+    "Biodata_Type": "Male",
+    "Profile_Image": "https://i.ibb.co/vX4zy1j/download-2.jpg",
+    "Permanent_Division_Name": "Chattagram",
+    "Age": 30,
+    "Occupation": "Businessman",
+    "View Profile": "view_profile_3.html"
+  },
+  {
+    
+    "Biodata_Id": 5,
+    "Biodata_Type": "Female",
+    "Profile_Image": "https://i.ibb.co/17Fh5Nn/download-4.jpg",
+    "Permanent_Division_Name": "Rangpur",
+    "Age": 30,
+    "Occupation": "Doctor",
+    "View Profile": "view_profile_3.html"
+  },
+  {
+
+    "Biodata_Id": 6,
+    "Biodata_Type": "Female",
+    "Profile_Image": "https://i.ibb.co/mtxRN52/download-5.jpg",
+    "Permanent_Division_Name": "Dhaka",
+    "Age": 27,
+    "Occupation": "Softwere Developer",
+    "View Profile": "view_profile_3.html"
+  }
+]

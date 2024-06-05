@@ -2,6 +2,7 @@ import Banner from "../Banner/Banner";
 import ProfileCard from "../ProfileCard/ProfileCard";
 import CounterSection from "./Counter/CounterSection";
 import WorkHow from "./How_we_Work/WorkHow";
+import SucessStory from "./SucessStory/SucessStory";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
         <ProfileCard></ProfileCard>
         <WorkHow></WorkHow>
         <CounterSection></CounterSection>
+        <SucessStory></SucessStory>
     </div>
   );
 };

@@ -1,0 +1,50 @@
+[
+  {
+    "_id:":1,
+    "couple":"Soumya and Priyonti",
+    "image": "https://i.ibb.co/wQC8RfN/couple1.jpg",
+    "marriageDate": "2022-05-20",
+    "reviewStar": 5,
+    "storyText": "Meeting each other through this platform was the best thing that ever happened to us. Our wedding on May 20, 2022, was a dream come true. We're eternally grateful!"
+  },
+  {
+    "_id:":2,
+    "couple":"Sudipto and Puja",
+    "image": "https://i.ibb.co/60tGsSZ/couple2.jpg",
+    "marriageDate": "2023-06-15",
+    "reviewStar": 5,
+    "storyText": "We met on this platform and instantly felt a connection. After months of getting to know each other, we decided to take the next step and got married on June 15, 2023. It was the most beautiful day of our lives, and we owe it all to this wonderful service that brought us together. We couldn't be happier!"
+  },
+  {
+    "_id:":3,
+    "couple":"Tamim and Tonny",
+    "image": "https://i.ibb.co/9ZPRmpS/couple3.jpg",
+    "marriageDate": "2021-09-10",
+    "reviewStar": 4,
+    "storyText": "Our journey together began on this amazing platform. We tied the knot on September 10, 2021, and have been inseparable since. Thank you for helping us find each other!"
+  },
+  {
+    "_id:":4,
+    "couple":"Sajib and Noushin",
+    "image": "https://i.ibb.co/9rHpk9w/couple4.jpg",
+    "marriageDate": "2024-11-05",
+    "reviewStar": 5,
+    "storyText": "We connected during a difficult time, and this platform brought us together. Our wedding on November 5, 2020, was filled with joy and love. We are forever thankful!"
+  },
+  {
+    "_id:":5,
+    "couple":"Dev and Diviya",
+    "image": "https://i.ibb.co/r3GSCxV/couple5.jpg",
+    "marriageDate": "2023-01-14",
+    "reviewStar": 4,
+    "storyText": "This platform made it possible for us to find each other. We got married on January 14, 2023, and our lives have been filled with happiness ever since. Thank you!"
+  },
+  {
+    "_id:":6,
+    "couple":"Joan Doe and Puja",
+    "image": "https://i.ibb.co/6gFFC7H/couple6.jpg",
+    "marriageDate": "2022-07-23",
+    "reviewStar": 5,
+    "storyText": "From the moment we met here, we knew it was meant to be. Our wedding on July 23, 2022, was magical, and we couldn't have done it without this wonderful service. Highly recommended!"
+  }
+]

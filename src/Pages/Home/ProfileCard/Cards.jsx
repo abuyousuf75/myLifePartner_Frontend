@@ -27,7 +27,7 @@ const Cards = ({cards}) => {
                 </ul>
             </div>
             <div className="mt-8 text-center"> 
-                <button className="w-1/2 bg-[#DA3182] text-lg font-semibold p-2 rounded-xl text-white">View Profile</button>
+                <button className="w-1/2 bg-[#ff5a60] text-lg font-semibold p-2 rounded-xl text-white">View Profile</button>
                 </div>
         </div>
        

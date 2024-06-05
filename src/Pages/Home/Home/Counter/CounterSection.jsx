@@ -43,27 +43,27 @@ const CounterSection = () => {
             <h3 className='mb-4'>Success Counter</h3>
             <div className='grid lg:grid-cols-4 gap-4 md:grid-cols-3'>
                 {/* Total Biodatas */}
-                <div className='bg-[#DA3182] text-center justify-center items-center flex rounded-sm h-[100px]'>
+                <div className='bg-[#ff5a60] text-center justify-center items-center flex rounded-sm h-[100px]'>
                     <h4 className='text-white'>
                         Total Biodatas: <span ref={totalCounterRef}></span>
                     </h4>
                 </div>
                 {/* Girls' Biodatas */}
-                <div className='bg-[#DA3182] text-center justify-center items-center flex rounded-sm h-[100px]'>
+                <div className='bg-[#ff5a60] text-center justify-center items-center flex rounded-sm h-[100px]'>
                     <FaFemale className='text-white mr-2' />
                     <h4 className='text-white'>
                         Girls' Biodatas: <span ref={girlsCounterRef}></span>
                     </h4>
                 </div>
                 {/* Boys' Biodatas */}
-                <div className='bg-[#DA3182] text-center justify-center items-center flex rounded-sm h-[100px]'>
+                <div className='bg-[#ff5a60] text-center justify-center items-center flex rounded-sm h-[100px]'>
                     <FaMale className='text-white mr-2' />
                     <h4 className='text-white'>
                         Boys' Biodatas: <span ref={boysCounterRef}></span>
                     </h4>
                 </div>
                 {/* Marriages Completed */}
-                <div className='bg-[#DA3182] text-center justify-center items-center flex rounded-sm h-[100px]'>
+                <div className='bg-[#ff5a60] text-center justify-center items-center flex rounded-sm h-[100px]'>
                     <h4 className='text-white'>
                         Marriages Completed: <span ref={marriagesCounterRef}></span>
                     </h4>
