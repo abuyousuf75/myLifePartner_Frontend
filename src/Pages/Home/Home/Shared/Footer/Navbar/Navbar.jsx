@@ -1,7 +1,9 @@
+import { Link } from "react-router-dom";
+
 const Navbar = () => {
   const navOptions = <>
-            <li><a>Home</a></li>
-            <li><a>Biodatas</a></li>
+           <Link to='/'> <li><a>Home</a></li></Link>
+           <Link to='/biodatas'><li><a>Biodatas</a></li></Link>
             <li><a>About us</a></li>
             <li><a>Contact us</a></li>
   
